@@ -47,7 +47,7 @@
             "logo": "score.com/images/dunlaoghaire.jpg",
             "center": [
                 "53.3498",
-                "6.2603"
+                "-6.2603"
             ],
             "zoom": 13
         },
@@ -63,8 +63,8 @@
             "currency": "EURO",
             "logo": "score.com/images/dublin.jpg",
             "center": [
-                "53.4509",
-                "6.1501"
+                "53.446",
+                "-6.163"
             ],
             "zoom": 13
         }
