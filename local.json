@@ -7,17 +7,17 @@
 			"total_available_budget": 130000,
 			"currency": "EURO",
 			"logo": "score.com/images/dunlaoghaire.jpg",
-            "center": ["23.0, -0.21"]
+            "center": ["53.294754198772", "-6.13382594932919"]
 		},
 		
 		{
 			"name": "Bray",
 			"description": "A beautiful sea side town",
 			"eba_array": ["cef0cbf3-6458-4f13-a418-ee4d7e7505dd", "cef0cbf3-6458-4f13-a418-ee4d7e7505df", "cef0cbf3-6458-4f13-a418-ee4d7e7505df"],
-			"total_available_budget": 200000,
+			"total_available_budget": 130000,
 			"currency": "EURO",
 			"logo": "score.com/images/dunlaoghaire.jpg",
-            "center": ["23.0, -0.21"]
+            "center": ["53.195", "-6.118"]
 		},
 		
 		{
