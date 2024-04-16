@@ -7,7 +7,7 @@
 			"total_available_budget": 130000,
 			"currency": "EURO",
 			"logo": "score.com/images/dunlaoghaire.jpg",
-            		"center": ["53.294754198772", "-6.13382594932919"]
+            		"center": ["53.294754198772", "-6.13382594932919"],
 			"zoom": 13.0
 		},
 		
@@ -18,7 +18,7 @@
 			"total_available_budget": 130000,
 			"currency": "EURO",
 			"logo": "score.com/images/dunlaoghaire.jpg",
-		        "center": ["53.195", "-6.118"]
+		        "center": ["53.195", "-6.118"],
 			"zoom": 13.0
 		},
 		
@@ -29,7 +29,7 @@
 			"total_available_budget": 200000,
 			"currency": "EURO",
 			"logo": "score.com/images/dunlaoghaire.jpg",
-            		"center": ["53.3498", "6.2603"]
+            		"center": ["53.3498", "6.2603"],
 			"zoom": 13.0
 		},
 
