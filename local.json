@@ -4,9 +4,11 @@
             "name": "Dun Laoghaire",
             "description": "A beautiful sea side town",
             "eba_array": [
-                "cef0cbf3-6458-4f13-a418-ee4d7e7505dd",
-                "cef0cbf3-6458-4f13-a418-ee4d7e7505df",
-                "cef0cbf3-6458-4f13-a418-ee4d7e7505df"
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
             ],
             "total_available_budget": 130000,
             "currency": "EURO",
@@ -21,9 +23,9 @@
             "name": "Bray",
             "description": "A beautiful sea side town",
             "eba_array": [
-                "cef0cbf3-6458-4f13-a418-ee4d7e7505dd",
-                "cef0cbf3-6458-4f13-a418-ee4d7e7505df",
-                "cef0cbf3-6458-4f13-a418-ee4d7e7505df"
+                "1",
+                "2",
+                "3"
             ],
             "total_available_budget": 130000,
             "currency": "EURO",
@@ -38,9 +40,9 @@
             "name": "Dublin",
             "description": "A beautiful sea side town",
             "eba_array": [
-                "cef0cbf3-6458-4f13-a418-ee4d7e7505dd",
-                "cef0cbf3-6458-4f13-a418-ee4d7e7505df",
-                "cef0cbf3-6458-4f13-a418-ee4d7e7505df"
+                "2",
+                "3",
+                "4"
             ],
             "total_available_budget": 200000,
             "currency": "EURO",
@@ -55,9 +57,9 @@
             "name": "Malahide",
             "description": "Viking Town",
             "eba_array": [
-                "cef0cbf3-5555-4f13-a418-ee4d7e7505dd",
-                "cef0cbf3-4444-4f13-a418-ee4d7e7505df",
-                "cef0cbf3-3333-4f13-a418-ee4d7e7505df"
+                "3",
+                "4",
+                "5"
             ],
             "total_available_budget": 200000,
             "currency": "EURO",
